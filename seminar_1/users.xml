@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<users>
+    <user>
+        <username>korisnik1</username>
+        <password>lozinka1</password>
+        <ime>Ime1</ime>
+        <prezime>Prezime1</prezime>
+    </user>
+    <user>
+        <username>korisnik2</username>
+        <password>lozinka2</password>
+        <ime>Ime2</ime>
+        <prezime>Prezime2</prezime>
+    </user>
+</users>
